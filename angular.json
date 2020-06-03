@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "heroMuseum"
+    }
+  },
+  "defaultProject": "heroMuseum",
+  "cli": {
+    "analytics": false
+  }
 }
